@@ -13,6 +13,6 @@
 
 use App\Http\Controllers\LoginController;
 
-Route::get('/', 'Logincontroller@login');
+Route::get('/', 'Logincontroller@index');
 
 Route::get('/register','RegisterController@regster');

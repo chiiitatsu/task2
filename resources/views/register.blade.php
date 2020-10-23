@@ -2,7 +2,7 @@
 <html lang="ja">
     <head>
         <meta charset="UTF-8">
-        <title>ユーザー画面</title>
+        <title>ユーザー登録画面</title>
         <style>
             @charset "utf-8";
 
